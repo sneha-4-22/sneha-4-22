@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Sneha.</h1>
-<h3 align="center" style="color: #fff;">🚀  My journey into the world of programming and computer science has been driven by a curiosity to explore and learn new things. 💡
-  🌟 I'm an active contributor to open-source projects. I believe in the power of collaboration and the impact that open-source software can have on our world. 🌐
+<h3  style="color: #fff;">🚀  My journey into the world of programming and computer science has been driven by a curiosity to explore and learn new things. 💡<br>
+  🌟 I'm an active contributor to open-source projects. I believe in the power of collaboration and the impact that open-source software can have on our world. 🌐<br>
   🥈 I'm proud to have secured the 2nd position in the internal competition of the Smart India Hackathon. This experience has honed my problem-solving skills and taught me the importance of teamwork in achieving tech solutions that make a difference. 🏆</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-4-22&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-4-22" /> </p>
