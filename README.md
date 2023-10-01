@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha.</h1>
 <h3 align="center">🚀 I'm fueled by the excitement of tackling complex problems and developing elegant solutions. My journey into the world of programming and computer science has been driven by a curiosity to explore and learn new things. 💡🌟 I'm an active contributor to open-source projects. I believe in the power of collaboration and the impact that open-source software can have on our world. 🌐🥈 I'm proud to have secured the 2nd position in the internal competition of the Smart India Hackathon. This experience has honed my problem-solving skills and taught me the importance of teamwork in achieving tech solutions that make a difference. 🏆</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-4-22&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-4-22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-4-22" alt="sneha-4-22" /></a> </p>
 
 - 📫 How to reach me **snehakumari64445@gmail.com**
 
