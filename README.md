@@ -1,6 +1,5 @@
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Sneha.</h1>
-<h3  style="color: #fff;">🚀  My journey into the world of programming and computer science has been driven by a curiosity to explore and learn new things. 💡<br>
-  🌟 I'm an active contributor to open-source projects. I believe in the power of collaboration and the impact that open-source software can have on our world. 🌐<br>
+<h3  style="color: #fff;">🚀  I'm currently studying Computer Science. I'm actively practicing Data Structures and Algorithms, and<br> I've developed a good handle on both web and app development.>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-4-22&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-4-22" /> </p>
 
