@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-4-22&show_icons=true&locale=en" alt="sneha-4-22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-4-22&" alt="sneha-4-22" /></p>
+
+[![An image of @sneha_4_22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sneha_4_22)][Holopin]
+
+[Holopin]:https://holopin.io/@sneha_4_22
