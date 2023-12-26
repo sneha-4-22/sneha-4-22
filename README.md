@@ -77,6 +77,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-4-22&" alt="sneha-4-22" /></p>
 
+## 🚀 Hacktober-Fest Rewards
+
 [![An image of @sneha_4_22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sneha_4_22)][Holopin]
 
 [Holopin]:https://holopin.io/@sneha_4_22
