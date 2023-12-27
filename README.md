@@ -32,6 +32,13 @@
             alt="LinkedIn"
         />
     </a>
+  <a href="https://quine.sh/user/sneha-4-22">
+    <img
+        src="https://img.shields.io/badge/Quine-31A24C?style=for-the-badge&amp;logo=quine&amp;logoColor=black"
+        alt="Quine"
+    />
+</a>
+
 </p>
 
 <br>
