@@ -5,9 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-4-22" alt="sneha-4-22" /></a> </p>
 
-- 📫 How to reach me **snehakumari64445@gmail.com**
-
+## <p align="center">🎈 How to reach me </p>
 <p align="center">
+    <a href="mailto:snehakumari64445@gmail.com">
+        <img
+            src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
+            alt="Gmail"
+        />
+    </a>
     <a href="https://www.linkedin.com/in/sneha422/">
         <img
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
@@ -16,6 +21,7 @@
     </a>
 </p>
 
+<br>
 
 ## <p align="center">💻 Tech Stack:</p>
 
@@ -75,7 +81,6 @@
     alt="Figma"
 />
 </p>
-
 <br/>
 <br/>
 
