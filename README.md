@@ -18,7 +18,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=sneha-4-22&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## <p align="center">🎈 How to reach me </p>
+## <p align="center">🎈Connect with me </p>
 <p align="center">
     <a href="mailto:snehakumari64445@gmail.com">
         <img
