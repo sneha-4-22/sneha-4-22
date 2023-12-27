@@ -7,6 +7,14 @@
 
 - 📫 How to reach me **snehakumari64445@gmail.com**
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/sneha422/">
+        <img
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+            alt="LinkedIn"
+        />
+    </a>
+</p>
 
 
 ## <p align="center">💻 Tech Stack:</p>
