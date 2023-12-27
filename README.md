@@ -1,9 +1,20 @@
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Sneha.</h1>
 <h3  style="color: #fff;">🚀  I'm currently studying Computer Science. I'm actively practicing Data Structures and Algorithms, and<br> I've developed a good handle on both web and app development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-4-22&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-4-22" /> </p>
+<br/>
+<br/>
+<div align="center" style="margin-top: 20px;"> 
+  <img 
+    src="https://komarev.com/ghpvc/?username=sneha-4-22&label=Profile%20views&color=blueviolet&style=plastic" 
+    alt="sneha-4-22" 
+  />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sneha-4-22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sneha-4-22&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## <p align="center">🎈 How to reach me </p>
 <p align="center">
