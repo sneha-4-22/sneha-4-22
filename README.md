@@ -7,7 +7,6 @@
   <img 
     src="https://komarev.com/ghpvc/?username=sneha-4-22&label=Profile%20views&color=blueviolet&style=plastic" 
     alt="sneha-4-22" 
-    
   />
 </div>
 
