@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-4-22&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-4-22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-4-22" alt="sneha-4-22" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sneha-4-22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <p align="center">🎈 How to reach me </p>
 <p align="center">
