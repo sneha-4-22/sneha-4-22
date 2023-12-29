@@ -102,11 +102,19 @@
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-4-22&show_icons=true&locale=en&layout=compact" alt="sneha-4-22" /></p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-4-22&show_icons=true&locale=en&layout=compact&theme=dark" alt="sneha-4-22" />
+  </div>
+  <div align="right">
+    <a href="https://quine.sh?utm_source=widgets&utm_campaign=sneha-4-22">
+      <img src="https://stats.quine.sh/sneha-4-22/github?theme=dark" alt="sneha-4-22" />
+    </a>
+  </div>
+</div>
+<br/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-4-22&theme=dark" alt="sneha-4-22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-4-22&show_icons=true&locale=en" alt="sneha-4-22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-4-22&" alt="sneha-4-22" /></p>
 
 ## 👻 Hacktober-Fest Rewards
 
