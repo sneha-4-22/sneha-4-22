@@ -114,8 +114,6 @@
 </div>
 <br/>
 
-<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=shreyaamarwaha&theme=radical&title_color=ff3068?"></a>
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-4-22&theme=dark" alt="sneha-4-22" /></p>
 
 
