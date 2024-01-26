@@ -104,7 +104,9 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-4-22&show_icons=true&locale=en&layout=compact&theme=dark" alt="sneha-4-22" />
+    
+   <a href="https://github.com/Giingu"><img width="50%"  align="left"  src="https://github-readme-stats.vercel.app/api?username=sneha-4-22&theme=dark&title_color=white?"></a>
+
   </div>
   <div align="right">
     <a href="https://quine.sh?utm_source=widgets&utm_campaign=sneha-4-22">
