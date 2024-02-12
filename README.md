@@ -36,8 +36,8 @@
         alt="Quine"
     />
 </a>
-<a href="https://leetcode.com/Shivani-2005/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank">
+<a href="https://leetcode.com/sneha_4_22/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"  target="_blank">
 </a>
 
 
