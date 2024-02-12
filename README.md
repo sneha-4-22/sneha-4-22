@@ -30,12 +30,16 @@
             alt="LinkedIn"
         />
     </a>
-<!--   <a href="https://quine.sh/user/sneha-4-22">
+  <a href="https://quine.sh/user/sneha-4-22">
     <img
         src="https://img.shields.io/badge/Quine-31A24C?style=for-the-badge&amp;logo=quine&amp;logoColor=black"
         alt="Quine"
     />
-</a> -->
+</a>
+<a href="https://leetcode.com/Shivani-2005/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" style="margin-bottom: 4px;" height="30px" target="_blank">
+</a>
+
 
 </p>
 
