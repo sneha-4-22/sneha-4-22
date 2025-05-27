@@ -1,5 +1,16 @@
-<h1 align="center" style="color: #fff;">Hi 👋, I'm Sneha.</h1>
-<h3  style="color: #fff;">🚀  I'm currently studying Computer Science. I'm actively practicing Data Structures and Algorithms, and<br> I've developed a good handle on both web and app development.
+<h1 align="center" style="color: #fff;">Hi 👋, I'm Sneha</h1>
+<h3 align="center" style="color: #fff;">
+🚀  BTech CSE Student | Upcoming SDE Intern @ ADP<br>
+👩‍💻 Passionate about AI, GenAI, and Full-Stack Development<br>
+🏅 Winner at TechxNova Hacks & Health Tech Innovation Fest<br>
+🌟 Top 10% on Quine | Ex-GenAI Intern @ Everyday Series
+</h3>
+
+<p align="center" style="color: #fff;">
+I'm currently in my 6th semester at Manav Rachna University, holding an SGPA of 8.82.<br>
+Actively working on projects in AI and web development while sharpening my DSA skills.<br>
+Love building real-world solutions and exploring cutting-edge tech in GenAI and beyond.
+</p>
 
 <br/>
 <br/>
