@@ -1,15 +1,19 @@
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Sneha</h1>
 <h3 align="center" style="color: #fff;">
-🚀  BTech CSE Student | Upcoming SDE Intern @ ADP<br>
-👩‍💻 Passionate about AI, GenAI, and Full-Stack Development<br>
+🚀 BTech CSE Student | Upcoming SDE Intern @ ADP<br>
+👩‍💻 Passionate about AI, GenAI & Full-Stack Development<br>
 🏅 Winner at TechxNova Hacks & Health Tech Innovation Fest<br>
-🌟 Top 10% on Quine | Ex-GenAI Intern @ Everyday Series
+🌟 Top 10% on Quine | Ex-GenAI Intern @ Everyday Series<br>
+💡 Solo Entrepreneur — Building real products that solve real problems
 </h3>
 
 <p align="center" style="color: #fff;">
-I'm currently in my 6th semester at Manav Rachna University, holding an SGPA of 8.82.<br>
-Actively working on projects in AI and web development while sharpening my DSA skills.<br>
-Love building real-world solutions and exploring cutting-edge tech in GenAI and beyond.
+Currently in my 6th semester at Manav Rachna University, maintaining an SGPA of 8.82.<br>
+I'm actively exploring the world of AI and full-stack development while sharpening my DSA skills.<br>
+As a solo entrepreneur, I love turning ideas into impactful products.
+<br><br>
+🚀 Check out my website and explore what I’m building:<br>
+<a href="https://sneha.everydayseries.io/" target="_blank" style="color: #00e5ff;"><b>https://sneha.everydayseries.io/</b></a>
 </p>
 
 <br/>
