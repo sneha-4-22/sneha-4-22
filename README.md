@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Sneha</h1>
 <h3 align="center" style="color: #fff;">
-🚀 CS Major | Upcoming SDE Intern @ ADP<br>
+🚀 CS Major | Upcoming GPT Intern @ ADP<br>
 👩‍💻 Passionate about AI, GenAI & Full-Stack Development<br>
 🏅 Winner at TechxNova Hacks & Health Tech Innovation Fest<br>
 🌟 Top 10% on Quine | Ex-GenAI Intern @ Everyday Series<br>
